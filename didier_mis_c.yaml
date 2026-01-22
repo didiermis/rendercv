@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.3/schema.json
+cv:
+  name: Didier Fernando Mis May
+  headline: Head of Statistical and Geospatial Analysis Department | Public Transport Leadership & Data-Driven Operations
+  location: Mérida, Yucatán, Mexico
+  email: didier.mis.may@gmail.com
+  phone: +52-999-492-9690
+  social_networks:
+    - network: LinkedIn
+      username: didier-fernando-mis-may-18bb79138
+    - network: GitHub
+      username: didiermis
+
+  sections:
+    summary:
+      - Senior public-sector leader with a strong technical background in statistical analysis, geospatial intelligence, and data-driven decision support for public transportation systems.
+      - Proven experience leading multidisciplinary teams, managing analytical priorities, and translating complex technical data into actionable insights for executive leadership, policy design, and operational optimization.
+      - Strong stakeholder communication, strategic planning, and process improvement capabilities within government and cross-functional environments.
+
+    experience:
+      - company: Yucatán Transportation Agency
+        position: Head of Statistical and Geospatial Analysis Department
+        start_date: 2024-07
+        end_date: present
+        location: Mérida, Yucatán, Mexico
+        summary: >
+          Senior leadership role responsible for directing statistical, geospatial, and data-driven analysis
+          to support strategic decision-making in public transportation planning, system modernization,
+          and policy design at a state-level transport agency. \n
+
+        highlights:
+          - Led and managed a multidisciplinary analytical team, defining priorities, workflows, and quality standards to support agency-wide strategic objectives.
+          - Acted as key technical counterpart to executive leadership, internal departments, technology providers, and external stakeholders, strengthening cross-functional collaboration and decision alignment.
+          - Implemented data quality assurance processes, consistency checks, and incident identification across operational platforms, improving data reliability for planning and evaluation.
+          - Integrated GTFS with geospatial and operational datasets to assess service coverage, stop spacing, network performance, and demand patterns.
+          - Provided strategic recommendations based on statistical evidence, spatial analysis, and scenario modeling to inform route reengineering, service coverage, and performance monitoring.
+          - Translated technical findings into decision-oriented narratives for non-technical stakeholders, ensuring alignment with legal, regulatory, and transparency requirements.
+
+      - company: Hashed
+        position: Software Developer | Blockchain & Backend Engineer
+        start_date: 2022-01
+        end_date: 2024-06
+        location: Remote, Mexico
+        summary: >
+          Backend and blockchain engineer contributing to system architecture, software delivery,
+          and client-facing technical solutions across Web3 and Web2 environments.
+
+        highlights:
+          - Developed and maintained scalable backend services using Node.js, Fastify, Hasura, and PostgreSQL, delivering secure and well-documented REST APIs.
+          - Led the technical transition of a production system from a Web3 architecture to a Web2 stack, ensuring data consistency, system reliability, and minimal service disruption.
+          - Designed and implemented smart contracts within Substrate and EOSIO ecosystems, focusing on security, permission management, and transaction integrity.
+          - Contributed to NFT marketplace components and role-based access control (RBAC) features, strengthening governance and security.
+          - Implemented unit and integration testing strategies, including runtime and performance benchmarks, improving software quality and maintainability.
+          - Collaborated with clients and cross-functional teams to translate business requirements into technical solutions, supporting planning and architectural decision-making.
+
+    education:
+      - institution: Universidad Autónoma de Yucatán
+        area: Engineering Physics
+        degree: BSc
+        start_date: 2015-01
+        end_date: 2021-01
+        location: Yucatán, Mexico
+        summary: >
+          Strong foundation in physics, statistics, and computational methods, supporting advanced analytical
+          and data-driven work.
+
+        highlights:
+          - Best Grade of the 5th and 9th semesters of the Engineering Physics program
+          - Specialization in Theoretical Physics and Computational Physics
+          - "Relevant coursework: Probability, Statistics, Data Science, Machine Learning, Object-Oriented Programming"
+
+    skills:
+      - label: Leadership & Management
+        details: Team Leadership, Stakeholder Communication, Strategic Planning, Decision-Making Under Pressure, Delegation, Time Management, Prioritization, Cross-functional Collaboration
+      - label: Public Transport & Government Operations
+        details: Public Sector, Government Operations, Transport Planning, Service Coverage Analysis, Policy Support, Regulatory Alignment, Performance Monitoring, Resource Allocation
+      - label: Data & Analytics
+        details: Statistical Analysis, Geospatial Analysis, Data Quality Assurance, Scenario Modeling, GTFS, Dashboards, Reporting
+      - label: Technologies
+        details: Python, JavaScript, SQL, Node.js, Fastify, Hasura, PostgreSQL, Docker, REST APIs, CI/CD
+      - label: Tools
+        details: Power BI, Tableau, GitHub, Visual Studio Code, Jupyter, Linux
+
+design:
+  theme: classic
+
+locale:
+  language: en
+
+rendercv_settings:
+  date: '2026-01-22'
+  sort_entries: none
